@@ -1,0 +1,30 @@
+.infolytx-modal-body {
+    max-height: calc(100vh - 325px);
+    overflow-y: auto;
+    white-space: pre-line;
+}
+.infolytx-body-header-text{
+    font-size: 16px;
+    font-weight: bold;
+}
+.infolytx-font {
+    font-family: "Source Sans Pro", sans-serif;
+}
+.infolytx-body-text{
+    font-size: 14px;
+}
+.itx-btn, .itx-btn:hover, .itx-btn:focus {
+    background-color: #8aba3f !important;
+    border-color: #8aba3f !important;
+    color: white !important;
+    -moz-border-radius: 0px !important;  /* for mozilla */
+
+    -webkit-border-radius: 0px !important; /* for safari */
+
+    border-radius: 0px !important;  /* IE, Chrome, Opera */
+    text-decoration: none;
+}
+
+.light-margin {
+    margin: 5px !important;
+}
