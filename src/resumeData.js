@@ -1,10 +1,10 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
   "name": "Md Abdul Hasib",
-  "role": "Senior Software Engineer| Machine Learning Practitioner| CSM| Problem Solver| Big Data Enthusiast| Project Lead",
+  "role": "Staff Software Engineer in ML/SE| CSM| Problem Solver| Project Lead",
   "linkedinId":"https://www.linkedin.com/in/md-abdul-hasib-sazzad-19b88099/",
   "skypeid": "abdulhasibsazzad@hotmail.com",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": "",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -22,7 +22,21 @@ let resumeData = {
         "className":"fa fa-skype"
       }
     ],
-  "aboutme":"He would like to introduce himself as a machine learning engineer(especially deep learning) and backend engineer specialized in python and java. He possesses excellent verbal and written communication skills. He is a quick learner." ,
+  "aboutme":"He would like to introduce himself as a machine learning engineer(especially deep learning) and backend engineer specialized in python and java. He possesses excellent verbal and written communication skills. He is a quick learner.\n" +
+      "He has in-depth knowledge of Software Development, Structured and Unstructured Data Analytics, Database Techniques, OS and Data Structures.\n" +
+      "He can work in a team. He has team-leading experiences also.\n" +
+      "He is a good motivator, enthusiastic and open to learning new ideas.\n" +
+      "He has a sound knowledge of recognizing and analyzing information problems.\n" +
+      "He can handle multiple tasks.\n" ,
+      // "\n" +
+      // "Specialties:\n" +
+      // "• Machine Learning\n" +
+      // "• Deep Learning\n" +
+      // "• Natural Language Processing\n" +
+      // "• Software Development & Architecture\n" +
+      // "• Unstructured and structured data analytics\n" +
+      // "• Jira Administration\n" +
+      // "• Team Leading " ,
   "address":"Bangladesh",
   "website":"https://www.linkedin.com/in/md-abdul-hasib-sazzad-19b88099/",
   "education":[

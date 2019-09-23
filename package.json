@@ -1,5 +1,5 @@
 {
-  "homepage": "http://sazzadbuet08.github.io/sazzadBuet08.github.io",
+  "homepage": "http://sazzadbuet08.github.io",
   "name": "resume",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build --branch master"
   },
   "devDependencies": {
     "ajv": "^6.5.4",
